@@ -40,6 +40,8 @@ function calcularValorTotal(){
 }
 
 //Mateus D
+
+console.log("--------------------------------------------------------------------")
  
 function programaPrincipal() {
   while (true) {
@@ -54,7 +56,4 @@ function programaPrincipal() {
 }
 }
 }
-
- 
-
 programaPrincipal();
