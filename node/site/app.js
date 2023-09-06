@@ -9,7 +9,7 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 
-////
+/*
 
 const emailField = document.getElementById('email');
 const passwordField = document.getElementById('password');
@@ -35,4 +35,4 @@ firebase.auth().signInWithEmailAndPassword(email, password)
 
 
    
-
+*/
